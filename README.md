@@ -1,6 +1,6 @@
 # 👋 d4rk-cipher-sec
 
-🔐 Cybersecurity Apprentice @ Commvault, Bengaluru  
+🔐 Apprentice @ Commvault, Bengaluru  
 🎯 Ethical Hacking | Penetration Testing | OWASP  
 🌱 Building toward **CompTIA Security+** & **eJPT**  
 
